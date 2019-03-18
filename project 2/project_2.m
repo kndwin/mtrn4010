@@ -1,3 +1,5 @@
+% question 4
+
 x = zeros(3,1);
 u = [2;     %alpha
      3];    %v;
